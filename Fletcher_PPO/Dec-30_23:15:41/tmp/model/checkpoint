@@ -1,6 +1,0 @@
-model_checkpoint_path: "AUVSim-v0-11000"
-all_model_checkpoint_paths: "AUVSim-v0-7000"
-all_model_checkpoint_paths: "AUVSim-v0-8000"
-all_model_checkpoint_paths: "AUVSim-v0-9000"
-all_model_checkpoint_paths: "AUVSim-v0-10000"
-all_model_checkpoint_paths: "AUVSim-v0-11000"
